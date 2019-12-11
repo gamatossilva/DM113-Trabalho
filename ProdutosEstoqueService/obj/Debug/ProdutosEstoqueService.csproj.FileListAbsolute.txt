@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\bin\ProdutosEstoqueService.dll.config
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\bin\ProdutosEstoqueService.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\bin\ProdutosEstoqueService.pdb
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\bin\EntityFramework.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\bin\EstoqueEntityModel.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\bin\EstoqueEntityModel.pdb
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\bin\EstoqueEntityModel.dll.config
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\bin\EntityFramework.xml
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\obj\Debug\ProdutosEstoqueService.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\obj\Debug\ProdutosEstoqueService.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\obj\Debug\ProdutosEstoqueService.csproj.CopyComplete
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\obj\Debug\ProdutosEstoqueService.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueService\obj\Debug\ProdutosEstoqueService.pdb
