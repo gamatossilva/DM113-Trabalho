@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll.config
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.CopyComplete
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.pdb
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.Migrations.Criacao_do_Banco.resources
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.GenerateResource.cache
