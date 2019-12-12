@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClient\bin\Debug\ProdutosEstoqueClient.exe.config
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClient\bin\Debug\ProdutosEstoqueClient.exe
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClient\bin\Debug\ProdutosEstoqueClient.pdb
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClient\obj\Debug\ProdutosEstoqueClient.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClient\obj\Debug\ProdutosEstoqueClient.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClient\obj\Debug\ProdutosEstoqueClient.exe
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClient\obj\Debug\ProdutosEstoqueClient.pdb
