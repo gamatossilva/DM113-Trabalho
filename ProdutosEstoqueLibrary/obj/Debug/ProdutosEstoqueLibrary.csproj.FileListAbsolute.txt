@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\bin\Debug\ProdutosEstoqueLibrary.dll.config
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\bin\Debug\ProdutosEstoqueLibrary.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\bin\Debug\ProdutosEstoqueLibrary.pdb
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\bin\Debug\EstoqueEntityModel.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\bin\Debug\EstoqueEntityModel.dll.config
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\obj\Debug\ProdutosEstoqueLibrary.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\obj\Debug\ProdutosEstoqueLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\obj\Debug\ProdutosEstoqueLibrary.csproj.CopyComplete
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\obj\Debug\ProdutosEstoqueLibrary.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueLibrary\obj\Debug\ProdutosEstoqueLibrary.pdb

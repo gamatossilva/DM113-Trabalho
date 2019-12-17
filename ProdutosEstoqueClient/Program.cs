@@ -9,8 +9,14 @@ using ProdutosEstoqueClient.ProdutosEstoqueService;
 namespace ProdutosEstoqueClient {
     class Program {
         static void Main(string[] args) {
-            ProdutosEstoqueServiceClient produtosEstoqueClient = new ProdutosEstoqueServiceClient();
 
+            Console.WriteLine("Pressione ENTER quando o serviço estiver executando");
+            Console.ReadLine();
+
+            //ProdutosEstoqueServiceClient produtosEstoqueClient = new ProdutosEstoqueServiceClient();
+            ProdutosEstoqueServiceClient produtosEstoqueClient = new ProdutosEstoqueServiceClient("NetTcpBinding_IProdutosEstoqueService");
+
+            /*
             Console.WriteLine("Teste 1: Adicionar Produto 11");
             ProdutoEstoqueData produtoEstoqueData = new ProdutoEstoqueData();
             produtoEstoqueData.NomeProduto = "Produto 11";
@@ -32,7 +38,7 @@ namespace ProdutosEstoqueClient {
                 Console.WriteLine("Produto não encontrado");
             }
             Console.WriteLine();
-
+            */
             Console.WriteLine("Teste 3: Listar todos os produtos");
             List<string> produtosEstoque = produtosEstoqueClient.ListarProdutos().ToList();
             foreach(string s in produtosEstoque) {
@@ -40,7 +46,7 @@ namespace ProdutosEstoqueClient {
             }
             Console.WriteLine();
             
-
+            /*
             Console.WriteLine("Teste 4: Todas as informações do Produto 2");
             ProdutoEstoqueData produto2 = produtosEstoqueClient.VerProduto("2000");
             Console.WriteLine("Numero do Produto: {0}", produto2.NumeroProduto);
@@ -80,7 +86,7 @@ namespace ProdutosEstoqueClient {
             Console.WriteLine("Descrição do Produto: {0}", produto1.DescricaoProduto);
             Console.WriteLine("Estoque do Produto {0}", produto1.EstoqueProduto);
             Console.WriteLine();
-            
+            */
 
             produtosEstoqueClient.Close();
 
