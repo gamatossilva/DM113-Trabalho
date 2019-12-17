@@ -14,8 +14,10 @@ namespace ProdutosEstoqueClient {
             Console.ReadLine();
 
             //ProdutosEstoqueServiceClient produtosEstoqueClient = new ProdutosEstoqueServiceClient();
-            ProdutosEstoqueServiceClient produtosEstoqueClient = new ProdutosEstoqueServiceClient("NetTcpBinding_IProdutosEstoqueService");
-
+            //ProdutosEstoqueServiceClient produtosEstoqueClient = new ProdutosEstoqueServiceClient("NetTcpBinding_IProdutosEstoqueService");
+            //ProdutosEstoqueServiceClient produtosEstoqueClient = new ProdutosEstoqueServiceClient("BasicHttpBinding_IProdutosEstoqueService");
+            ProdutosEstoqueServiceClient produtosEstoqueClient = new ProdutosEstoqueServiceClient("WS2007HttpBinding_IProdutosEstoqueService");
+            
             /*
             Console.WriteLine("Teste 1: Adicionar Produto 11");
             ProdutoEstoqueData produtoEstoqueData = new ProdutoEstoqueData();
