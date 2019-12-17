@@ -9,7 +9,8 @@ using EstoqueEntityModel;
 using System.ServiceModel.Activation;
 
 namespace ProdutosEstoque {
-    [AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Allowed)]    public class ProdutosEstoqueService : IProdutosEstoqueService {
+    [AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Allowed)]
+    public class ProdutosEstoqueService : IProdutosEstoqueService {
         public bool AdicionarEstoque(string numeroProduto, int quantidade) {
 
             try {
@@ -19,8 +20,7 @@ namespace ProdutosEstoque {
                                      select p.Id).First();
 
                     ProdutoEstoque produtoEstoque = database.ProdutoEstoque.First(pi => pi.Id == idProduto);
-                    produtoEstoque.EstoqueProduto = quantidade;
-                    database.ProdutoEstoque.Add(produtoEstoque);
+                    produtoEstoque.EstoqueProduto += quantidade;
                     database.SaveChanges();
                 }
             }
@@ -49,7 +49,23 @@ namespace ProdutosEstoque {
 
         public bool IncluirProduto(ProdutoEstoqueData produtoEstoqueData) {
 
-            throw new NotImplementedException();
+            try {
+                using (ProvedorEstoque database = new ProvedorEstoque()) {
+                    ProdutoEstoque produtoEstoque = new ProdutoEstoque();
+                    produtoEstoque.NumeroProduto = produtoEstoqueData.NumeroProduto;
+                    produtoEstoque.NomeProduto = produtoEstoqueData.NomeProduto;
+                    produtoEstoque.DescricaoProduto = produtoEstoqueData.DescricaoProduto;
+                    produtoEstoque.EstoqueProduto = produtoEstoqueData.EstoqueProduto;
+
+                    database.ProdutoEstoque.Add(produtoEstoque);
+                   
+                    database.SaveChanges();
+                }
+            }
+            catch {
+                return false;
+            }
+            return true;
 
         }
 
@@ -84,8 +100,7 @@ namespace ProdutosEstoque {
                                      select p.Id).First();
 
                     ProdutoEstoque produtoEstoque = database.ProdutoEstoque.First(pi => pi.Id == idProduto);
-                    produtoEstoque.EstoqueProduto = quantidade;
-                    database.ProdutoEstoque.Add(produtoEstoque);
+                    produtoEstoque.EstoqueProduto -= quantidade;
                     database.SaveChanges();
                 }
             }
@@ -97,7 +112,21 @@ namespace ProdutosEstoque {
 
         public bool RemoverProduto(string removeProduto) {
 
-            throw new NotImplementedException();
+            try {
+                using (ProvedorEstoque database = new ProvedorEstoque()) {
+                    int idProduto = (from p in database.ProdutoEstoque
+                                     where String.Compare(p.NumeroProduto, removeProduto) == 0
+                                     select p.Id).First();
+
+                    ProdutoEstoque produtoEstoque = database.ProdutoEstoque.First(pi => pi.Id == idProduto);
+                    database.ProdutoEstoque.Remove(produtoEstoque);
+                    database.SaveChanges();
+                }
+            }
+            catch {
+                return false;
+            }
+            return true;
 
         }
 
