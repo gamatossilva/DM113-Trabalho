@@ -69,9 +69,9 @@ namespace ProdutosEstoqueClientV2 {
 */
 
             Console.WriteLine("Teste 7: Consultar estoque atual do Produto 1");
-            produtosEstoqueClientV2.AdicionarEstoque("1000", 10);
-            //int estoqueAtualProduto1 = produtosEstoqueClientV2.ConsultarEstoque("1000");
-            //Console.WriteLine("Quantidade atual no estoque do Produto 1: " + estoqueAtualProduto1);
+            //produtosEstoqueClientV2.AdicionarEstoque("1000", 10);
+            int estoqueAtualProduto1 = produtosEstoqueClientV2.ConsultarEstoque("1000");
+            Console.WriteLine("Quantidade atual no estoque do Produto 1: " + estoqueAtualProduto1);
             Console.WriteLine();
 
 /*            Console.WriteLine("Teste 8: Removendo 20 unidades do produto 1");
