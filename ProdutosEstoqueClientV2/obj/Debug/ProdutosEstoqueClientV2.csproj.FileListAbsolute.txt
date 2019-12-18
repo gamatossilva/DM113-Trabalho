@@ -1,0 +1,12 @@
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\bin\Debug\ProdutosEstoqueClientV2.exe.config
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\bin\Debug\ProdutosEstoqueClientV2.exe
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\bin\Debug\ProdutosEstoqueClientV2.pdb
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\obj\Debug\ProdutosEstoqueClientV2.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\obj\Debug\ProdutosEstoqueClientV2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\obj\Debug\ProdutosEstoqueClientV2.exe
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\obj\Debug\ProdutosEstoqueClientV2.pdb
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Documents\Pós\DM113\Trabalho\DM113-Trabalho\ProdutoEstoqueService\ProdutosEstoqueClientV2\obj\Debug\ProdutosEstoqueClientV2.csproj.CopyComplete

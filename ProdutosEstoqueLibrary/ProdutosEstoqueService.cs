@@ -9,7 +9,7 @@ using System.ServiceModel.Activation;
 
 namespace ProdutosEstoque {
     [AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Allowed)]
-    public class ProdutosEstoqueService : IProdutosEstoqueService {
+    public class ProdutosEstoqueService : IProdutosEstoqueService, IProdutosEstoqueServiceV2 {
         public bool AdicionarEstoque(string numeroProduto, int quantidade) {
 
             try {

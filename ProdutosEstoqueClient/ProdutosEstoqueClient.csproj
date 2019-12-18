@@ -45,53 +45,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Connected Services\ProdutosEstoqueService\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
+    <Compile Include="ProdutosEstoque.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Connected Services\ProdutosEstoqueService\ProdutosEstoqueClient.ProdutosEstoqueService.ProdutoEstoqueData.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </None>
-    <None Include="Connected Services\ProdutosEstoqueService\ProdutosEstoqueService.wsdl" />
-    <None Include="Connected Services\ProdutosEstoqueService\ProdutosEstoqueService.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Connected Services\ProdutosEstoqueService\ProdutosEstoqueService1.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Connected Services\ProdutosEstoqueService\ProdutosEstoqueService2.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Connected Services\ProdutosEstoqueService\ProdutosEstoqueService3.xsd">
-      <SubType>Designer</SubType>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadataStorage Include="Connected Services\ProdutosEstoqueService\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Connected Services\ProdutosEstoqueService\ProdutosEstoqueService.disco" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Connected Services\ProdutosEstoqueService\configuration91.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Connected Services\ProdutosEstoqueService\configuration.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Connected Services\ProdutosEstoqueService\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
-    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

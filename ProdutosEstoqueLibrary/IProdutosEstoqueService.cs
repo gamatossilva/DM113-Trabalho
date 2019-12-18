@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Security;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
 
 namespace ProdutosEstoque {
 
-    [ServiceContract]
+    [ServiceContract(Namespace = "http://projetoavaliativo.dm113/01")]
     public interface IProdutosEstoqueService {
 
         [OperationContract]
@@ -31,6 +32,19 @@ namespace ProdutosEstoque {
         [OperationContract]
         ProdutoEstoqueData VerProduto(string numeroProduto);
 
+    }
+
+    [ServiceContract(Namespace = "http://projetoavaliativo.dm113/02")]
+    public interface IProdutosEstoqueServiceV2 {
+
+        [OperationContract(ProtectionLevel = ProtectionLevel.EncryptAndSign)]
+        int ConsultarEstoque(string numeroProduto);
+
+        [OperationContract(ProtectionLevel = ProtectionLevel.EncryptAndSign)]
+        bool AdicionarEstoque(string numeroProduto, int quantidade);
+
+        [OperationContract(ProtectionLevel = ProtectionLevel.EncryptAndSign)]
+        bool RemoverEstoque(string numeroProduto, int quantidade);
     }
 
     [DataContract]
